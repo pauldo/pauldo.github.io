@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Paul's Blog
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+email: admin@pauldo.me
+description: "Paul's Blog"
+baseurl: ""
+url: "http://192.168.1.163:4000"
+twitter_username: pauldo
+github_username:  pauldo
+facebook_username:  pauldo
 
 # Build settings
 markdown: kramdown
