@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: admin@pauldo.me
 description: "Paul's Blog"
 baseurl: ""
-url: "http://192.168.1.163:4000"
+url: "http://blog.pauldo.me"
 twitter_username: pauldo
 github_username:  pauldo
 facebook_username:  pauldo
