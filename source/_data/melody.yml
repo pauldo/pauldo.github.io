@@ -7,8 +7,8 @@ language: en
 menu:
   Home: /
   Archives: /archives
-  Tags: /tags
-  Categories: /categories
+  #Tags: /tags
+  #Categories: /categories
   #XXX: /xxx
 
 # Favicon
@@ -59,7 +59,7 @@ mathjax:
 
 # Toggle fireworks (IE >= 10)
 # ---------------
-fireworks: false
+fireworks: true
 
 # Analysis
 # ---------------
@@ -130,7 +130,7 @@ slide:
   charset: utf-8
   theme: black
   # optional
-  mouseWheel: false
+  mouseWheel: true
   transition: slide
   transitionSpeed: default
   parallaxBackgroundImage: ''
@@ -198,7 +198,7 @@ disqus:
 
 # Footer Settings
 # ---------------
-since: 2013
+since: 2018
 
 # footer_custom_text:
 
