@@ -1,6 +1,6 @@
 # html lang
 # ---------------
-language: en
+language: zh-Hans
 
 # Main menu navigation
 # ---------------
@@ -24,12 +24,12 @@ pwa:
 
 # Highlight theme
 # ---------------
-highlight_theme: default
+highlight_theme: light
 
 # Nav settings
 # ---------------
-#social:
-  #icon_name: url
+social:
+    github: https://github.com/pauldo
 
 # Algolia search
 # ---------------
