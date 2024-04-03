@@ -1,0 +1,6 @@
+[book]
+authors = ["pauldo"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Paul's tech note"
